@@ -1,0 +1,1 @@
+{ "zoom":0.1, "size":"100 x 100", "convolutions":3,"neurons":128,"epochs":10,"lr":1e-3, "epochs_a":40 , "validate_test": false}
